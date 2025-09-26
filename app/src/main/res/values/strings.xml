@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">v_player</string>
+    <string name="unknown_title">Unknown Title</string>
+    <string name="unknown_artist">Unknown Artist</string>
+    <string name="unknown_album">Unknown Album</string>
+</resources>
