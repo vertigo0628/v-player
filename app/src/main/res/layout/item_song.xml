@@ -25,7 +25,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Song Title"
-            android:textColor="@color/black"
+            android:textColor="@color/white"
             android:textSize="16sp"
             android:maxLines="1"
             android:ellipsize="end" />
@@ -35,7 +35,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Artist"
-            android:textColor="@color/gray"
+            android:textColor="@color/textColorSecondary"
             android:textSize="14sp"
             android:maxLines="1"
             android:ellipsize="end" />
@@ -47,7 +47,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="3:45"
-        android:textColor="@color/gray"
+        android:textColor="@color/textColorSecondary"
         android:textSize="14sp"
         android:layout_gravity="center_vertical" />
 

@@ -15,7 +15,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="?android:attr/fingerprintAuthDrawable"
+        android:icon="@android:drawable/ic_notification_overlay"
         android:label="@string/app_name"
         android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
         android:usesCleartextTraffic="true"
