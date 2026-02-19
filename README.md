@@ -1,3 +1,3 @@
 # v-player
-MUSIC-PLAYER-KOTLIN
+An android music player build in kotlin.
 .
